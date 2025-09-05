@@ -1,4 +1,1 @@
-# BeetJuicer.github.io
-
-
-TESTESTESTESTESTSETESTSEET
+Hello. This is my developer page.
